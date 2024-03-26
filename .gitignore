@@ -1,3 +1,4 @@
 .env
 trash/*
 audio*.wav
+node_modules
